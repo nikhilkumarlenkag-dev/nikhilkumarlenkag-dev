@@ -30,17 +30,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Pandey&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pandey&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🔥 Streaks
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Pandey&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilkumar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkumar&layout=compact&theme=radical)
 
 </div>
 
