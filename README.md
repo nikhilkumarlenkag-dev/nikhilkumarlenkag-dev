@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Aman Singh
+💻 Passionate about web development, problem-solving, and building cool projects.
+🚀 Always learning new technologies and improving my coding skills.
 
-<!--
-**nikhilkumarlenkag-dev/nikhilkumarlenkag-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+Frontend: HTML, CSS, JavaScript (ES6+), React
+Backend: Node.js, Express
+Database: MongoDB, MySQL
+Other: Git, GitHub, Linux
+📌 What I Do
+🌱 Build small projects to learn by doing
+🛠️ Contribute to open-source
+📖 Share my coding journey
+📫 Connect with Me
+GitHub: Aman Singh
+LinkedIn: Aman Singh
+LeetCode: Aman Singh
