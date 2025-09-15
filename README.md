@@ -1,4 +1,4 @@
-👋 Hi, I'm Aman Singh
+<h1>👋 Hi, I'm Nikhil Kumar</h1>
 💻 Passionate about web development, problem-solving, and building cool projects.
 🚀 Always learning new technologies and improving my coding skills.
 
